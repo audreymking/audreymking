@@ -1,3 +1,4 @@
+![Profile Header](Purple Brush Paint General Linkedin Banner.png)
 <h1 align="center">Hi 👋, I'm Audrey</h1>
 <h3 align="center">A passionate full stack web development student</h3>
 
