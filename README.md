@@ -1,4 +1,5 @@
-![Profile Header](Purple Brush Paint General Linkedin Banner.png)
+![Purple Brush Paint General Linkedin Banner](https://user-images.githubusercontent.com/69822381/104834952-cfbc4f80-5868-11eb-83a0-8b83822f2f4e.png)
+
 <h1 align="center">Hi 👋, I'm Audrey</h1>
 <h3 align="center">A passionate full stack web development student</h3>
 
