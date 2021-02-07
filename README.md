@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://audreymking.github.io/Audrey-King-Portfolio/)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js and Express**
 
 - 👨‍💻 All of my projects are available at [https://github.com/audreymking](https://github.com/audreymking)
 
